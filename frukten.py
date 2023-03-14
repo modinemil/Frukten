@@ -31,7 +31,7 @@ while looping:
     print("\n")
     if (go == "n"):
         break
-
+#la till momentar
 print("---------------------------------")
 print("Föresten, du får en frukt till!" )
 slumpfruktnr = random.randint(1, 5)
